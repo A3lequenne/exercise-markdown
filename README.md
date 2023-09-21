@@ -6,11 +6,11 @@
 This repo is used to train our group to use markdown's syntax
 
 ## Members of the group
-1. member 1
-2. member 2
-3. member 3
-4. member 4
-5. member 5
+1. Clément
+2. Jérôme
+3. Eliott
+4. Yannick
+5. Hamid
 
 [Some motivation](https://www.youtube.com/watch?v=btPJPFnesV4&pp=ygUQZXllIG9mIHRoZSB0aWdlcg%3D%3D)
 
