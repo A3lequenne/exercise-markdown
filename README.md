@@ -19,9 +19,9 @@
 
 lien vers mon [GitHub](https://github.com/Eliott27).
 
-![Hamilton](<Mercedes_ Hamilton to race in Abu Dhabi.png>)
+![Hamilton](https://cdn-3.motorsport.com/images/amp/0RraR4Z0/s1000/lewis-hamilton-mercedes-f1-w14.jpg)
 
-![ben](ben.gif)
+![ben](https://static-cse.canva.com/blob/604057/giphy3.gif)
 
 
 ```
