@@ -46,7 +46,7 @@ To participate in this challenge, follow these steps:
 
 ## Content
 
-The `markdown.md`- [GitHub - My markdown exercise](https://github.com/A3lequenne/exercise-markdown/pulls) file includes the following elements:
+The `markdown.md`- [My markdown exercise](https://github.com/A3lequenne/exercise-markdown/blob/Slato/makrdown.md) file includes the following elements:
 
 - Unordered list
 - Ordered list
