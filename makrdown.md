@@ -48,7 +48,7 @@ In this section, we'll cover the elements you requested:
 - **Links**:
 
   - [GitHub - Swartz-8](https://github.com/becodeorg/Swartz-8/tree/main/1.The-Field/3.Markdown)
-  - [GitHub - Our markdown exercises](https://github.com/A3lequenne/exercise-markdown/pulls)
+  - [GitHub - Our markdown exercises](https://github.com/A3lequenne/exercise-markdown/branches)
 
 - **One Static Image**:
   ![Static Image](/images/markdown.png)
