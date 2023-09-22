@@ -20,10 +20,10 @@
 
 
 
-![Markdown Logo](Markdown-mark.svg)
+![Markdown Logo](/assets/Markdown-mark.svg)
 
 
-![Markdown gif](markdown.gif)
+![Markdown gif](/assets/markdown.gif)
 
 Pour créer un titre, ajoutez `#` avnt le texte du titre. Le nombe de `#` utilisés détermine le niveau de hiérarchie et la taille de police du titre.
 ````
