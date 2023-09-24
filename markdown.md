@@ -1,15 +1,27 @@
 # Markdown
-
 [README.md ->](./README.md)
+## What is markdown ?
+Markdown is a lightweight markup language with plain text formatting syntax designed to be converted to HTML and other formats using a tool of the same name. 
 
-<br/>
+## Why use markdown ?
+Because it's :
+1. EASY: The syntax is so simple that you can learn in a minute or two, then write without finding anything weird or geeky.
+2. FAST: It saves time compared to other file types/text formats. It helps speed up productivity and the writer's workflow.
+3. CLEAN: Syntax and rendering are both clear, easy on the eyes and simple to manage.
+4. FLEXIBLE: With a little configuration, your text will be translated on all platforms, editable in any editing software and convertible into a wide choice of formats.
 
-Le Markdown est un langage de balisage léger avec une syntaxe de formatage de texte brut conçu pour être converti en HTML ainsi qu'en d'autres format en utilisant un outil du même nom. 
-
-## Pourquoi utiliser le Markdown ?
-Parce que c'est :
-
-* FACILE : La syntaxe est tellement simple que vous pouvez apprendre en une minute ou deux, puis écrire sans trouver quoi que ce soit bizarre ou geek.
-* RAPIDE : Cela fait gagner du temps comparé aux autres types de fichiers/formats texte. Cela aide à accélérer la productivité et le flux de travail du rédacteur.
-* PROPRE : La syntaxe et le rendu sont tous deux clairs, ne font pas mal aux yeux et sont simples à gérer.
-* FLEXIBLE : Avec un peu de configuration, votre texte sera traduit sur toutes les plateformes, sera modifiable dans tout logiciel d'édition et convertible dans un large choix de formats.
+## Markdown syntax
+To format your text you can use the toolbar above the text area, or you can use markdown syntax.
+* Text styles :
+    * You can use `_` or `*` around a word to italicize it. Use two to make it bold.
+* Code blocks :
+    * Create a block of code by indenting each line with four spaces, or by putting three grave accents on the line above and below your code. Example:
+        ` ```bloc of code``` `
+        ```javaScript
+        function sayHello(){
+            alert("Hello")
+        }
+        ```
+* Links : `[README.md ->](./README.md)` [README.md ->](./README.md)
+* Images : `![image](/exemple.jpg)`
+![image animée](https://miro.medium.com/v2/resize:fit:679/1*lhOax3cZATGZwEhG0uTYRA.gif)
